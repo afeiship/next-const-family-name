@@ -10,3 +10,6 @@ npm install -S afeiship/next-const-family-name --registry=https://registry.npm.t
 ```js
 //DOCS here!
 ```
+
+## resources:
+- https://github.com/wanghuafeng/family_name_handle
