@@ -3,7 +3,7 @@
  * description: Family name for next.
  * homepage: https://github.com/afeiship/next-const-family-name
  * version: 1.0.0
- * date: 2020-12-05 09:33:33
+ * date: 2020-12-05 09:35:15
  * license: MIT
  */
 
