@@ -1,6 +1,15 @@
-(function() {
+/*!
+ * name: @jswork/next-const-family-name
+ * description: Family name for next.
+ * homepage: https://github.com/afeiship/next-const-family-name
+ * version: 1.0.0
+ * date: 2020-12-05 09:33:33
+ * license: MIT
+ */
+
+(function () {
   var global = global || this || window || Function('return this')();
-  var nx = global.nx || require('next-js-core2');
+  var nx = global.nx || require('@jswork/next');
 
   nx.constFamilyName = [
     '赵',
