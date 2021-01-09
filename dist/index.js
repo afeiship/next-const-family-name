@@ -2,8 +2,8 @@
  * name: @jswork/next-const-family-name
  * description: Family name for next.
  * homepage: https://github.com/afeiship/next-const-family-name
- * version: 1.0.0
- * date: 2020-12-05 09:35:15
+ * version: 1.0.1
+ * date: 2021-01-09 16:49:11
  * license: MIT
  */
 
